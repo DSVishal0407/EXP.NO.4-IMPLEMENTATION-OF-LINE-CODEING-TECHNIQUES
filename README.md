@@ -1,12 +1,12 @@
 # EXP.NO.4-IMPLEMENTATION-OF-LINE-CODEING-TECHNIQUES
 
-## AIM    
+## AIM:
  The objective of this experiment is to study the Line coding techniques using the trainer kit.
  
-## APPARATUS REQUIRED
+## APPARATUS REQUIRED:
 Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V).
 
-## PROCEDURE
+## PROCEDURE:
 1.	Connect power supply in proper polarity to the kits DCL-05 and DCL-06 and switch iton.
 2.	Connect CLOCK and DATA generated on DCL-05 to CODING CLOCK IN and DATA INPUT respectively by means of the patch-chords provided.
 3.	Connect the coded data NRZ-L on DCL-05 to the corresponding DATA INPUTNRZL, of the decoding logic on DCL-06.	
@@ -23,17 +23,17 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V).
     a. connect NRZ-L signal from DCL-05 to the input post IN Unipolar to Bipolarand Observe the Bipolar output at the post OUT.
     b. Then connect bipolar output signal to the input post IN of Bipolar to Unipolarand observe Unipolar out at post OUT.
     
-## CIRCUIT DIAGRAM
+## CIRCUIT DIAGRAM:
 ![image](https://github.com/user-attachments/assets/535b62ba-7eee-4e09-be90-88e07cfd35a1)
 
-## MODEL GRAPH
+## MODEL GRAPH:
 ![image](https://github.com/user-attachments/assets/471c76c3-603f-432b-9b65-1ad080a1c947)
 
-## TABLE
-![WhatsApp Image 2025-04-23 at 22 20 03_761e4df8](https://github.com/user-attachments/assets/645824c4-2113-47ce-96fb-717d0275f4e4)
+## TABLE:
+![WhatsApp Image 2025-05-02 at 20 52 43_6d5cc01b](https://github.com/user-attachments/assets/4d9959e9-32f2-4dd6-bc1e-54918a3064b4)
 
-## OUTPUT GRAPHS
+## OUTPUT GRAPH:
 ![image](https://github.com/user-attachments/assets/3f8412e1-8eb2-44b5-9521-122a735516b4)
 
-## RESULT 
+## RESULT: 
 Thus the line coding techniques were analyzed and observed and the graph is plotted. 
